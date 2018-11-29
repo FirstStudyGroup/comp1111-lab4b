@@ -1,6 +1,6 @@
 watermelon
 banana
 orange
-appleasd
-pearasd
-strawberryasd
+apple
+pear
+strawberry
